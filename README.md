@@ -22,3 +22,4 @@ This project aims to develop a robust laptop price estimation model using histor
 
 <img width="960" alt="image" src="https://github.com/Div-develops/Laptop-price-Predictor/assets/75534560/605e4311-a964-4e1b-8cbf-d875b721c4a0">
 <img width="960" alt="image" src="https://github.com/Div-develops/Laptop-price-Predictor/assets/75534560/d2328127-0144-4d6d-affd-a19f866e08ef">
+<img width="960" alt="image" src="https://github.com/Div-develops/Laptop-price-Predictor/assets/75534560/483c4db1-ff36-4033-9d91-c06de135b9be">
